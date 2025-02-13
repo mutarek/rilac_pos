@@ -8,8 +8,6 @@ void main() {
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-
-  //rilac pos  cascka ckask
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
